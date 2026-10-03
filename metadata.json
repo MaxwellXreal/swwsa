@@ -1,0 +1,6 @@
+{
+  "name": "Speedometer GPS",
+  "description": "Стильный GPS-спидометр с записью поездок, 2D картой города и анализом скорости участков дорог",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

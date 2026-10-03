@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Speedometer GPS</string>
+    <string name="title_speedometer">Спидометр</string>
+    <string name="title_trips">Мои поездки</string>
+    <string name="title_map">2D Карта</string>
+    <string name="speed_unit_kmh">км/ч</string>
+    <string name="speed_unit_mph">mph</string>
+    <string name="stat_max_speed">Макс. скорость</string>
+    <string name="stat_avg_speed">Средняя скорость</string>
+    <string name="stat_current_speed">Текущая</string>
+    <string name="stat_distance">Дистанция</string>
+    <string name="stat_duration">Время в пути</string>
+    <string name="stat_altitude">Высота</string>
+    <string name="btn_start_recording">Запись</string>
+    <string name="btn_stop_recording">Остановить</string>
+    <string name="btn_reset_max">Сбросить макс.</string>
+    <string name="btn_reset_avg">Сбросить среднюю</string>
+</resources>
